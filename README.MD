@@ -4,7 +4,7 @@ Passwd is a Mac application to easily handle MFA tokens
 It sets a padlock icon in your status bar where you can see all your configured accounts
 and by just clicking on any of them the MFA secret is   automatically copied to the clipboard.
 
-You can configure your accounts in the config.yaml file as shown below
+You can configure your accounts in the `$HOME/.2Passwd/config.yaml` file as shown below
 
 ```yaml
 accounts:
